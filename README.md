@@ -25,10 +25,6 @@
 
   * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/145.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.js)
 
-* leecode-145.二叉树的后序遍历
-
-  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/145.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.js)
-
 * leecode-105.从前序与中序遍历序列构造二叉树
 
   * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/105.%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.js)
