@@ -51,11 +51,11 @@
 
   * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/222.%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.js)
 
-* leecode-144.二叉树的前序遍历
+* leecode-144.二叉树的前序遍历-递归
 
   * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/144.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.js)
 
-* leecode-145.二叉树的后序遍历
+* leecode-145.二叉树的后序遍历-递归
 
   * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/145.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.js)
 
