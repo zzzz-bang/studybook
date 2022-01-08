@@ -1,5 +1,17 @@
 # 算法
+## 2022-01-08
+* leecode-226.翻转二叉树
 
+  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/226%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+
+* leecode-637.二叉树的层平均值
+
+  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/637%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.js)
+
+* leecode-剑指 Offer 32 - II. 从上到下打印二叉树 II
+
+  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/%E5%89%91%E6%8C%87%20Offer%2032%20-%20II.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91%20II.js)
+ 
 ## 2022-01-07
 * leecode-144.二叉树的前序遍历（统一迭代)
 
