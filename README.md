@@ -1,4 +1,22 @@
 # 算法
+## 2022-01-09
+* leecode-429. N 叉树的层序遍历
+
+  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/429.%20N%20%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.js)
+
+* leecode-515. 在每个树行中找最大值
+
+  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/515.%20%E5%9C%A8%E6%AF%8F%E4%B8%AA%E6%A0%91%E8%A1%8C%E4%B8%AD%E6%89%BE%E6%9C%80%E5%A4%A7%E5%80%BC.js)
+
+* leecode-116. 填充每个节点的下一个右侧节点指针
+
+  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/116.%20%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88.js)
+
+* leecode-103. 二叉树的锯齿形层序遍历
+
+  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/103.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.js)
+
+
 ## 2022-01-08
 * leecode-226.翻转二叉树
 
