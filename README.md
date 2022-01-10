@@ -1,4 +1,9 @@
 # 算法
+## 2022-01-10
+* leecode-110. 平衡二叉树
+
+  * [代码](https://github.com/zzzz-bang/studybook/blob/main/code/110.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+
 ## 2022-01-09
 * leecode-429. N 叉树的层序遍历
 
